@@ -24,7 +24,7 @@ This progressive single page-web application is a text editor that runs in the b
 ## Installation
 After downloading, please run the following operations
 * npm i
-* npm run develop
+* npm start
 
 ## Customer Prompt
 ```md
